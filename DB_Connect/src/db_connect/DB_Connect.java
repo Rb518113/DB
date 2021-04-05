@@ -54,6 +54,7 @@ public class DB_Connect {
             }
             
             if(con != null){
+                
                 con.close();
             }
             
